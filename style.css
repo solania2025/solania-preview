@@ -1,28 +1,17 @@
+
 body {
-  font-family: 'Pretendard', sans-serif;
+  font-family: 'Arial', sans-serif;
   margin: 0;
+  padding: 0;
   background: #fffaf5;
   color: #333;
 }
-header {
-  background: #ffffff;
+header, footer {
   text-align: center;
   padding: 2rem;
+  background-color: #f5f5f5;
 }
-.video-banner video {
-  width: 100%;
-  display: block;
-}
-.featured {
+main {
   padding: 2rem;
-}
-.product-card {
-  border: 1px solid #ddd;
-  padding: 1rem;
-  background: #fff;
-}
-footer {
   text-align: center;
-  padding: 1rem;
-  font-size: 0.8rem;
 }

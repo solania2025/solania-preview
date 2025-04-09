@@ -1,1 +1,1 @@
-Solania 사이트 미리보기 구성물입니다. 이 파일은 GitHub Pages 또는 Netlify로 배포 가능합니다.
+Solania 최종 사이트 구성 파일입니다. GitHub Pages 또는 Netlify에 업로드하여 사용하세요.
